@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce78e314-e819-4d90-8c54-bc6934711ccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Programs/Bill_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Programs/Game_Rock_Paper_Scissor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Programs/Python_Pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Programs/Reverse_list_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Programs/Reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Programs/Tax_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Programs/__init__.py" afterDir="false" />
+    <list default="true" id="ce78e314-e819-4d90-8c54-bc6934711ccc" name="Changes" comment="Start_python">
+      <change afterPath="$PROJECT_DIR$/Python_Programs/Treser_hung.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "bhargav1394"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/bhargav1394/Python_Projects.git",
+    "accountId": "c2bd0c02-1ff5-424a-978c-86919e7516e7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -67,6 +69,19 @@
       <option name="presentableId" value="Default" />
       <updated>1754497877377</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start_python">
+      <option name="closed" value="true" />
+      <created>1754498895314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754498895314</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start_python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start_python" />
   </component>
 </project>
